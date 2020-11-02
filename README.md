@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 16.11.2020     |  5         |
+| 16.11.2020     |  10        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
