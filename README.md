@@ -40,6 +40,8 @@ Cechy związane z klasą ``Product``:
 
 W tym zadaniu użyj tablicy produktów jako kolekcji, na której będziesz operował.
 
+---
+
 ### Uwaga 1
 Projekt powinien zawierać odpowiednie testy jednostkowe do implementowanej funkcjonalności.
 
