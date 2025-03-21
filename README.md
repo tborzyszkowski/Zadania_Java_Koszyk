@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 26.05.2024  23:00   |  15        |
+| 25.04.2025  23:00   |  10        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -31,6 +31,8 @@ która umożliwiałaby:
 3. Sortowanie kolekcji produktów po cenie jak i po nazwie
 4. Wyliczanie sumy cen wszystkich zadanych produktów
 6. Aplikowanie opisanych powyżej rodzajów promocji na zadanej kolekcji produktów w koszyku
+7. Umożliwiać dodawanie nowych promocji, o jeszcze nieznanych cechach, z zachowaniem zasad SOLID
+8. Proponować najkorzystniejszy sposób stosowania promocji; wynik zakupów może zależeć o doboru promocji i kolejności ich zastosowania.
 
 Cechy związane z klasą ``Product``:
 - kod produktu (code) - String
